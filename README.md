@@ -4,6 +4,7 @@ Aplikasi *front-end* web modern untuk Samira Travel, dibangun menggunakan React,
 
 [![Teknologi](https://img.shields.io/badge/Frontend-React%20%26%20TS-blueviolet.svg)]()
 [![Styling](https://img.shields.io/badge/CSS-TailwindCSS-06B6D4.svg)]()
+[![Status Proyek](https://img.shields.io/badge/Status-Aktif-brightgreen.svg)]()
 
 ## 🛠️ Teknologi yang Digunakan
 
